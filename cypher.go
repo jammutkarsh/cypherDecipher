@@ -1,4 +1,4 @@
-package main
+package cypherDecypher
 
 import (
 	"github.com/tjarratt/babble"
