@@ -1,9 +1,3 @@
-/*The main objective of this package is to learn
-1. How to build conflict free packages
-2. How to publish packages
-3. How to use `git tag` and use them to have a versioned release of your package.
-*/
-
 // Package cypherDecipher contains functions for adding and removing salt from the text.
 package main
 
