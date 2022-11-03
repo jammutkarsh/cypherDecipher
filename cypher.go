@@ -1,5 +1,5 @@
 // Package cypherDecipher contains functions for adding and removing salt from the text.
-package main
+package cypherDecipher
 
 import (
 	"unicode/utf8"
